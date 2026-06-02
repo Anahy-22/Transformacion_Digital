@@ -1,5 +1,5 @@
-# Examen_Culturadigital_2_Condor
-La Importancia de la Transformación Digital en la Ciencia de Datos
+# La Importancia de la Transformación Digital en la Ciencia de Datos
+
 La Transformación Digital y la Ciencia de Datos son disciplinas profundamente interdependientes que, en conjunto, impulsan la innovación en la sociedad actual. Su importancia radica en una relación simbiótica: la Transformación Digital es el habilitador, y la Ciencia de Datos es el motor de valor.
 
 Generación y Disponibilidad de Datos (El Habilitador):
